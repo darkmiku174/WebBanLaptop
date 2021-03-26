@@ -53,5 +53,4 @@
    		<td>Thanh toán trực tuyến </td>
 		<td>Tiện lợi cho việc mua sắm</td>
  	</tr>
-
 </table>
