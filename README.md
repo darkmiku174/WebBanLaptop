@@ -8,7 +8,7 @@
     <li> Tạo ra một website bán laptop trực tuyến phù hợp với thời đại mua sắm trực tuyến hiện tại. </li>
     <li> Sử dụng công nghệ reactjs – nodejs để tạo nên trang web. </li>
     <li>Trang web có giao diện trực quan, dễ sử dụng cho cả người bán và khách hàng. </li>
-    <li>Giúp nhóm chuẩn bị kiến thức cho các dự án lớn hơn. </li>
+    <li>Giúp các cửa hàng có thêm phương thức kinh doanh và người dùng có thêm phương thức mua hàng trong thời kì dịch bệnh, hạn chế đi lại. </li>
 </ul>
 
 ## Userstory
