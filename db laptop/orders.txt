@@ -1,0 +1,113 @@
+
+{
+    "_id" : ObjectId("60c1d2e7217776c06d597483"),
+    "User" : ObjectId("60c1cee2217776c06d597270"),
+    "DanhSachSanPham" : [ 
+        {
+            "SanPham" : ObjectId("60c1cd18217776c06d59718f"),
+            "SoLuong" : 1
+        }
+    ],
+    "NgayBan" : "01/04/2021 11:11:00",
+    "DiaChi" : "828 Sư Vạn Hạnh, Phường 13, Quận 10, Thành phố Hồ Chí Minh.",
+    "TrangThai" : 0
+}
+{
+    "_id" : ObjectId("60c1d2e7217776c06d597486"),
+    "User" : ObjectId("60c1cee2217776c06d597273"),
+    "DanhSachSanPham" : [ 
+        {
+            "SanPham" : ObjectId("60c1cd18217776c06d597192"),
+            "SoLuong" : 1
+        }, 
+        {
+            "SanPham" : ObjectId("60c1cd18217776c06d5971a1"),
+            "SoLuong" : 1
+        }
+    ],
+    "NgayBan" : "10/04/2021 11:15:00",
+    "DiaChi" : "155 Sư Vạn Hạnh, Phường 13, Quận 10, Thành phố Hồ Chí Minh.",
+    "TrangThai" : 1
+}
+{
+    "_id" : ObjectId("60c1d2e7217776c06d597489"),
+    "User" : ObjectId("60c1cee2217776c06d597276"),
+    "DanhSachSanPham" : [ 
+        {
+            "SanPham" : ObjectId("60c1cd18217776c06d5971b3"),
+            "SoLuong" : 2
+        }
+    ],
+    "NgayBan" : "23/04/2021 11:30:00",
+    "DiaChi" : "512/11 Phan Văn Trị, Phường 13, Gò Vấp, Thành phố Hồ Chí Minh.",
+    "TrangThai" : 2
+}
+{
+    "_id" : ObjectId("60c1d2e7217776c06d59748c"),
+    "User" : ObjectId("60c1cee2217776c06d59727c"),
+    "DanhSachSanPham" : [ 
+        {
+            "SanPham" : ObjectId("60c1cd18217776c06d5971bf"),
+            "SoLuong" : 2
+        }
+    ],
+    "NgayBan" : "23/04/2021 11:30:00",
+    "DiaChi" : "431 Hoàng Văn Thụ, Phường 4, Quận Tân Bình, Thành phố Hồ Chí Minh.",
+    "TrangThai" : 2
+}
+{
+    "_id" : ObjectId("60c1d2e7217776c06d59748f"),
+    "User" : ObjectId("60c1cee2217776c06d59727f"),
+    "DanhSachSanPham" : [ 
+        {
+            "SanPham" : ObjectId("60c1cd18217776c06d597198"),
+            "SoLuong" : 1
+        }
+    ],
+    "NgayBan" : "23/04/2021 11:30:00",
+    "DiaChi" : "T1A Tôn Thất Tùng, Phường Phạm Ngũ Lão, Quận 1, Thành phố Hồ Chí Minh.",
+    "TrangThai" : 2
+}
+{
+    "_id" : ObjectId("60c1d2e7217776c06d597492"),
+    "User" : ObjectId("60c1cee2217776c06d597279"),
+    "DanhSachSanPham" : [ 
+        {
+            "SanPham" : ObjectId("60c1cd18217776c06d5971a7"),
+            "SoLuong" : 1
+        }, 
+        {
+            "SanPham" : ObjectId("60c1cd18217776c06d5971b6"),
+            "SoLuong" : 1
+        }
+    ],
+    "NgayBan" : "18/02/2021 07:00:00",
+    "DiaChi" : "339/34A Tô Hiến Thành, Phường 12, Quận 10, Thành phố Hồ Chí Minh.",
+    "TrangThai" : 3
+}
+{
+    "_id" : ObjectId("60c1d2e7217776c06d597495"),
+    "User" : ObjectId("60c1cee2217776c06d597273"),
+    "DanhSachSanPham" : [ 
+        {
+            "SanPham" : ObjectId("60c1cd18217776c06d5971c2"),
+            "SoLuong" : 2
+        }
+    ],
+    "NgayBan" : "01/01/2021 18:18:00",
+    "DiaChi" : "155 Sư Vạn Hạnh, Phường 13, Quận 10, Thành phố Hồ Chí Minh.",
+    "TrangThai" : 4
+}
+{
+    "_id" : ObjectId("60c1d2e7217776c06d597498"),
+    "User" : ObjectId("60c1cee2217776c06d597270"),
+    "DanhSachSanPham" : [ 
+        {
+            "SanPham" : ObjectId("60c1cd18217776c06d5971a1"),
+            "SoLuong" : 1
+        }
+    ],
+    "NgayBan" : "06/06/2020 23:11:00",
+    "DiaChi" : "371 Nguyễn Kiệm, Phường 3, Quận Gò Vấp, Thành phố Hồ Chí Minh",
+    "TrangThai" : 5
+}

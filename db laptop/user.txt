@@ -1,0 +1,54 @@
+{
+    "_id" : ObjectId("60c1cee2217776c06d597270"),
+    "TenTK" : "nguyenvana@gmail.com",
+    "MK" : "123456",
+    "HoTen" : "Nguyễn Văn A",
+    "SDT" : "0111111110",
+    "Email" : "nguyenvana@gmail.com",
+    "Address" : "828 Sư Vạn Hạnh, Phường 13, Quận 10, Thành phố Hồ Chí Minh."
+}
+{
+    "_id" : ObjectId("60c1cee2217776c06d597273"),
+    "TenTK" : "nguyenvanb@gmail.com",
+    "MK" : "123456",
+    "HoTen" : "Nguyễn Văn B",
+    "SDT" : "0111111111",
+    "Email" : "nguyenvanb@gmail.com",
+    "Address" : "155 Sư Vạn Hạnh, Phường 13, Quận 10, Thành phố Hồ Chí Minh."
+}
+{
+    "_id" : ObjectId("60c1cee2217776c06d597276"),
+    "TenTK" : "nguyenvanc@gmail.com",
+    "MK" : "147852369",
+    "HoTen" : "Nguyễn Văn C",
+    "SDT" : "0111111112",
+    "Email" : "nguyenvanc@gmail.com",
+    "Address" : "512/11 Phan Văn Trị, Phường 13, Gò Vấp, Thành phố Hồ Chí Minh."
+}
+{
+    "_id" : ObjectId("60c1cee2217776c06d597279"),
+    "TenTK" : "nguyenvand@gmail.com",
+    "MK" : "147852369",
+    "HoTen" : "Nguyễn Văn D",
+    "SDT" : "0111111113",
+    "Email" : "nguyenvand@gmail.com",
+    "Address" : "339/34A Tô Hiến Thành, Phường 12, Quận 10, Thành phố Hồ Chí Minh."
+}
+{
+    "_id" : ObjectId("60c1cee2217776c06d59727c"),
+    "TenTK" : "nguyenvane@gmail.com",
+    "MK" : "123456789",
+    "HoTen" : "Nguyễn Văn E",
+    "SDT" : "0111111114",
+    "Email" : "nguyenvane@gmail.com",
+    "Address" : "431 Hoàng Văn Thụ, Phường 4, Quận Tân Bình, Thành phố Hồ Chí Minh."
+}
+{
+    "_id" : ObjectId("60c1cee2217776c06d59727f"),
+    "TenTK" : "nguyenvanf@gmail.com",
+    "MK" : "123456789",
+    "HoTen" : "Nguyễn Văn F",
+    "SDT" : "0111111115",
+    "Email" : "nguyenvanf@gmail.com",
+    "Address" : "T1A Tôn Thất Tùng, Phường Phạm Ngũ Lão, Quận 1, Thành phố Hồ Chí Minh."
+}

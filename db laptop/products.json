@@ -1,0 +1,441 @@
+[{
+  "_id": {
+    "$oid": "60c1cd18217776c06d59718f"
+  },
+  "TenSP": "Apple Macbook Pro 13 2020",
+  "CPU": "Intel Core i5 8th, 4 nhân / 8 luồng",
+  "ManHinh": "13.3\" Retina (2560 x 1600), gương",
+  "DoPhuMau": "100% sRGB",
+  "RAM": "8GB LPDDR3 bus 2133 MHz",
+  "VGA": "Intel Iris Plus 645",
+  "BoNhoLuuTru": "256GB NVMe",
+  "Pin": "58Wh",
+  "CongKetNoi": "2 x USB-C with Thunderbolt 3",
+  "CanNang": "1.4 kg",
+  "HeDieuHanh": "Mac OS X",
+  "MauSac": "Space Gray",
+  "DonGia": "25990000",
+  "ThuongHieu": {
+    "$oid": "60c1c272217776c06d596e7e"
+  },
+  "SoLuong": "1",
+  "HinhAnh": "https://lumen.thinkpro.vn//backend/uploads/product/color_images/2020/9/27/macbook-pro-13-2020.jpg"
+},{
+  "_id": {
+    "$oid": "60c1cd18217776c06d597192"
+  },
+  "TenSP": "Apple Macbook Pro 13 (M1, Late 2020 - Apple Silicon)",
+  "CPU": "Apple M1, 8 nhân",
+  "ManHinh": "13.3\" Retina (2560 x 1600), gương",
+  "DoPhuMau": "100% sRGB ",
+  "RAM": "8GB LPDDR4x",
+  "VGA": "Apple GPU",
+  "BoNhoLuuTru": "256GB NVMe",
+  "Pin": "58Wh",
+  "CongKetNoi": "2 x USB-C with Thunderbolt 3 + USB4",
+  "CanNang": "1.4 kg",
+  "HeDieuHanh": "Mac OS X",
+  "MauSac": "Space Gray",
+  "DonGia": "33990000",
+  "ThuongHieu": {
+    "$oid": "60c1c272217776c06d596e7e"
+  },
+  "SoLuong": "1",
+  "HinhAnh": "https://lumen.thinkpro.vn//backend/uploads/product/color_images/2020/11/11/macbook-pro-13-2020.jpg"
+},{
+  "_id": {
+    "$oid": "60c1cd18217776c06d597195"
+  },
+  "TenSP": "Apple Macbook Pro 13 (Chính hãng - Apple M1 - Late 2020)",
+  "CPU": "Apple M1, 8 nhân",
+  "ManHinh": "13.3\" Retina (2560 x 1600), gương",
+  "DoPhuMau": "",
+  "RAM": "16GB LPDDR4x",
+  "VGA": "Apple GPU",
+  "BoNhoLuuTru": "1TB NVMe",
+  "Pin": "58Wh",
+  "CongKetNoi": "2 x USB-C with Thunderbolt 3 + USB4",
+  "CanNang": "1.4 kg",
+  "HeDieuHanh": "Mac OS X",
+  "MauSac": "Silver",
+  "DonGia": "49990000",
+  "ThuongHieu": {
+    "$oid": "60c1c272217776c06d596e7e"
+  },
+  "SoLuong": "1",
+  "HinhAnh": "https://lumen.thinkpro.vn//backend/uploads/product/color_images/2020/11/11/macbookpro132020-01.jpg"
+},{
+  "_id": {
+    "$oid": "60c1cd18217776c06d597198"
+  },
+  "TenSP": "Apple Macbook Pro 16",
+  "CPU": "Intel Core i9 8 nhân / 16 luồng",
+  "ManHinh": "16\" Retina (3072 x 1920), gương",
+  "DoPhuMau": "100% sRGB",
+  "RAM": "16GB DDR4 bus 2666 MHz",
+  "VGA": "AMD Radeon Pro 5500M 4GB",
+  "BoNhoLuuTru": "1TB NVMe",
+  "Pin": "100Wh",
+  "CongKetNoi": "4 x USB-C, Thunderbolt 3",
+  "CanNang": "2.0 kg",
+  "HeDieuHanh": "Mac OS X",
+  "MauSac": "Silver",
+  "DonGia": "66990000",
+  "ThuongHieu": {
+    "$oid": "60c1c272217776c06d596e7e"
+  },
+  "SoLuong": "1",
+  "HinhAnh": "https://media0.faz.net/ppmedia/aktuell/technik-motor/1484956965/1.6670682/default-retina/gross-schnell-und-teuer-das.jpg"
+},{
+  "_id": {
+    "$oid": "60c1cd18217776c06d59719b"
+  },
+  "TenSP": "Dell Alienware Area 51m R2",
+  "CPU": "Intel Core i7-10700K, 8 nhân / 16 luồng",
+  "ManHinh": "17.3\" 360Hz FHD IPS (1920 x 1080) chống chói",
+  "DoPhuMau": "100% sRGB ",
+  "RAM": "32GB DDR4 bus 3200 MHz (Nâng cấp tối đa 64GB)",
+  "VGA": "Nvidia GeForce RTX 2070 SUPER 8GB",
+  "BoNhoLuuTru": "1TB m.2 NVMe (512GB x 2)",
+  "Pin": "90Wh",
+  "CongKetNoi": "3 x USB-A, 1 x USB-C with Thunderbolt 3, 1 x SD, 1 x HDMI, 1 x mini DisplayPort",
+  "CanNang": "4.1 kg",
+  "HeDieuHanh": "Windows 10 bản quyền",
+  "MauSac": "Black",
+  "DonGia": "84990000",
+  "ThuongHieu": {
+    "$oid": "60c1c272217776c06d596e7b"
+  },
+  "SoLuong": "1",
+  "HinhAnh": "https://lumen.thinkpro.vn//backend/uploads/product/color_images/2021/1/8/area51mr2-black01.jpg"
+},{
+  "_id": {
+    "$oid": "60c1cd18217776c06d59719e"
+  },
+  "TenSP": "Dell Alienware m17 R3",
+  "CPU": "Intel Core i7-10875H, 8 nhân / 16 luồng",
+  "ManHinh": "17.3\" 300Hz FHD IPS (1920 x 1080) chống chói, công nghệ hiển thị WVA",
+  "DoPhuMau": "100% sRGB",
+  "RAM": "32GB DDR4 bus 2666 MHz (Hàn trên mainboard - không thể nâng cấp)",
+  "VGA": "Nvidia GeForce RTX 2080 Super 8GB",
+  "BoNhoLuuTru": "1TB m.2 NVMe (Nâng cấp tối đa 2TB)",
+  "Pin": "86Wh",
+  "CongKetNoi": "3 x USB-A 3.1 Gen 1, 1 x USB-C hỗ trợ Thunderbolt 3, 1 x Micro-SD, 1 x HDMI 2.0, 1 x mini DisplayPort 1.4",
+  "CanNang": "2.97 kg",
+  "HeDieuHanh": "Windows 10 Home SL bản quyền",
+  "MauSac": "Lunar Light",
+  "DonGia": "73990000",
+  "ThuongHieu": {
+    "$oid": "60c1c272217776c06d596e7b"
+  },
+  "SoLuong": "1",
+  "HinhAnh": "https://lumen.thinkpro.vn//backend/uploads/product/color_images/2021/2/18/m17r3-lunar-1.jpg"
+},{
+  "_id": {
+    "$oid": "60c1cd18217776c06d5971a1"
+  },
+  "TenSP": "Dell Alienware M15 R3",
+  "CPU": "Intel Core i7-10750H, 6 nhân / 12 luồng",
+  "ManHinh": "15.6\" 300Hz FHD IPS (1920 x 1080) chống chói",
+  "DoPhuMau": "100% sRGB",
+  "RAM": "32GB DDR4 bus 2666 MHz (Nâng cấp tối đa 32GB)",
+  "VGA": "Nvidia GeForce RTX 2080 Super 8GB",
+  "BoNhoLuuTru": "1TB m.2 NVMe (Nâng cấp tối đa 2TB)",
+  "Pin": "86Wh",
+  "CongKetNoi": "3 x USB-A, 1 x USB-C, Thunderbolt 3, 1 x Micro-SD",
+  "CanNang": "",
+  "HeDieuHanh": "Windows 10 bản quyền",
+  "MauSac": "Black",
+  "DonGia": "64990000",
+  "ThuongHieu": {
+    "$oid": "60c1c272217776c06d596e7b"
+  },
+  "SoLuong": "1",
+  "HinhAnh": "https://lumen.thinkpro.vn//backend/uploads/product/color_images/2020/8/14/Dell-Alienware-M15-R3-Black.jpg"
+},{
+  "_id": {
+    "$oid": "60c1cd18217776c06d5971a4"
+  },
+  "TenSP": "Dell XPS 17 9700",
+  "CPU": "Intel Core i7-10875H, 8 nhân / 16 luồng",
+  "ManHinh": "17.0\" 4K IPS (3840 x 2400), gương, cảm ứng",
+  "DoPhuMau": "100% sRGB ",
+  "RAM": "32GB DDR4 bus 2933 MHz (Nâng cấp tối đa 64GB)",
+  "VGA": "Nvidia Geforce RTX 2060 6GB",
+  "BoNhoLuuTru": "1TB m.2 NVMe (Nâng cấp tối đa 2TB)",
+  "Pin": "86Wh",
+  "CongKetNoi": "4 x USB-C with Thunderbolt 3.0, 1 x SD",
+  "CanNang": "2.53kg",
+  "HeDieuHanh": "Windows 10 bản quyền",
+  "MauSac": "Silver",
+  "DonGia": "79990000",
+  "ThuongHieu": {
+    "$oid": "60c1c272217776c06d596e7b"
+  },
+  "SoLuong": "1",
+  "HinhAnh": "https://lumen.thinkpro.vn//backend/uploads/product/color_images/2020/8/18/Dell-XPS-17-9700-1.jpg"
+},{
+  "_id": {
+    "$oid": "60c1cd18217776c06d5971a7"
+  },
+  "TenSP": "Dell XPS 13 9310 (Chính hãng)",
+  "CPU": "Intel Core i7-1165G7, 4 nhân / 8 luồng",
+  "ManHinh": "13.4\" 4K UHD+ IPS (3840 x 2400) cảm ứng, gương, chống phản xạ",
+  "DoPhuMau": "100% sRGB, 90% DCI-P3",
+  "RAM": "16GB LPDDR4X bus 4266 MHz (Hàn trên mainboard - không thể nâng cấp)",
+  "VGA": "Intel Iris Xe",
+  "BoNhoLuuTru": "512GB m.2 NVMe (Nâng cấp tối đa 2TB)",
+  "Pin": "52Wh",
+  "CongKetNoi": "2 x USB-C with Thunderbolt 4, 1 x microSD Card slot",
+  "CanNang": "1.3 kg",
+  "HeDieuHanh": "Windows 10 bản quyền",
+  "MauSac": "Platinum Silver",
+  "DonGia": "59990000",
+  "ThuongHieu": {
+    "$oid": "60c1c272217776c06d596e7b"
+  },
+  "SoLuong": "1",
+  "HinhAnh": "https://lumen.thinkpro.vn//backend/uploads/product/color_images/2020/10/3/xps9310s-01.jpg"
+},{
+  "_id": {
+    "$oid": "60c1cd18217776c06d5971aa"
+  },
+  "TenSP": "Dell XPS 13 9310 2-in-1",
+  "CPU": "Intel Core i7-1165G7, 4 nhân / 8 luồng",
+  "ManHinh": "13.4\" UHD+ IPS (3840 x 2400) gương, cảm ứng",
+  "DoPhuMau": "100% sRGB",
+  "RAM": "16GB LPDDR4X bus 4266 MHz (Hàn sẵn trên mainboard - không thể nâng cấp)",
+  "VGA": "Intel Iris Xe",
+  "BoNhoLuuTru": "512GB NVMe (Hàn sẵn trên mainboard - không thể nâng cấp)",
+  "Pin": "52Wh",
+  "CongKetNoi": "2 x USB-C with Thunderbolt 3, 1 x microSD Card slot",
+  "CanNang": "1.3 kg",
+  "HeDieuHanh": "Windows 10 bản quyền",
+  "MauSac": "Silver",
+  "DonGia": "47990000",
+  "ThuongHieu": {
+    "$oid": "60c1c272217776c06d596e7b"
+  },
+  "SoLuong": "1",
+  "HinhAnh": "https://lumen.thinkpro.vn//backend/uploads/product/color_images/2020/10/3/xps93102-1s-01.jpg"
+},{
+  "_id": {
+    "$oid": "60c1cd18217776c06d5971ad"
+  },
+  "TenSP": "ASUS VivoBook 15 X515 (Intel Gen 11)",
+  "CPU": "Intel Core i7-1165G7, 4 nhân / 8 luồng",
+  "ManHinh": "15.6\" FHD TN (1920 x 1080) chống chói",
+  "DoPhuMau": "45% NTSC",
+  "RAM": "8GB DDR4 bus 3200MHz (4GB liền trên mainboard - Nâng cấp tối đa 12GB)",
+  "VGA": "Intel Iris Xe",
+  "BoNhoLuuTru": "512GB m.2 NVMe (Nâng cấp tối đa 2TB) + 1 khay 2.5\" trống",
+  "Pin": "37Wh",
+  "CongKetNoi": "1 x USB-C 3.2 Gen 1, 1 x USB-A 3.2 Gen 1, 1 x USB-A 2.0, 1 x HDMI1.4, 1 x 3.5mm, 1 x microSD",
+  "CanNang": "1.8kg",
+  "HeDieuHanh": "Windows 10 Home SL bản quyền",
+  "MauSac": "Silver",
+  "DonGia": "17290000",
+  "ThuongHieu": {
+    "$oid": "60c1c272217776c06d596e81"
+  },
+  "SoLuong": "1",
+  "HinhAnh": "https://lumen.thinkpro.vn//backend/uploads/product/color_images/2021/5/31/d515-silver-2.jpg"
+},{
+  "_id": {
+    "$oid": "60c1cd18217776c06d5971b0"
+  },
+  "TenSP": "ASUS ROG Zephyrus Duo 15 SE GX551",
+  "CPU": "AMD Ryzen 9 5900HX, 8 nhân / 16 luồng",
+  "ManHinh": "15.6\" FHD IPS (1920x1080) 300Hz, màn nhám + màn phụ 14.1'' 3840 x 1100 cảm ứng",
+  "DoPhuMau": "100% sRGB",
+  "RAM": "32GB DDR4 3200MHz (16GB Hàn trên mainboard + 16GB lắp rời)",
+  "VGA": " Nvidia Geforce RTX 3070 8GB GDDR6 (TGP 115W + 15W Dynamic Boost) ",
+  "BoNhoLuuTru": "1TB NVMe (Nâng cấp tối đa 2TBx2)",
+  "Pin": "90Wh",
+  "CongKetNoi": "3 x USB-A 3.2 Gen 2, 1 x USB-C 3.2 Gen 2 (Hỗ trợ DisplayPort 1.4, Power Delivery 100W), 1 x HDMI 2.0b, 1 x Jack 3.5mm, 1 x RJ-45, 1 x microSD",
+  "CanNang": "2.48 kg",
+  "HeDieuHanh": "Windows 10 Home SL bản quyền",
+  "MauSac": "Black",
+  "DonGia": "74990000",
+  "ThuongHieu": {
+    "$oid": "60c1c272217776c06d596e81"
+  },
+  "SoLuong": "1",
+  "HinhAnh": "https://lumen.thinkpro.vn//backend/uploads/product/color_images/2021/4/26/zephyrus-duo-15-se-gx551-2.jpg"
+},{
+  "_id": {
+    "$oid": "60c1cd18217776c06d5971b3"
+  },
+  "TenSP": "ASUS ROG Zephyrus G15 GA503",
+  "CPU": "AMD Ryzen 9 5900HS, 8 nhân / 16 luồng",
+  "ManHinh": "15.6\" 2K WQHD IPS (2560 x 1440) 165Hz, màn nhám",
+  "DoPhuMau": "100% DCI-P3",
+  "RAM": "32GB DDR4 3200MHz (16GB Hàn trên mainboard + 16GB lắp rời)",
+  "VGA": " Nvidia Geforce RTX 3080 16GB GDDR6 (TGP 80W + 20W Dynamic Boost)",
+  "BoNhoLuuTru": "1TB NVMe (Nâng cấp tối đa 2TBx2)",
+  "Pin": "90Wh",
+  "CongKetNoi": "2 x USB-A 3.2 Gen 2, 2 x USB-C 3.2 Gen 2 (Hỗ trợ DisplayPort 1.4, Power Delivery 100W), 1 x HDMI 2.0b, 1 x Jack 3.5mm, 1 x RJ-45, 1 x microSD",
+  "CanNang": "1.9 kg",
+  "HeDieuHanh": "Windows 10 Home SL bản quyền",
+  "MauSac": "Eclipse Grey",
+  "DonGia": "65990000",
+  "ThuongHieu": {
+    "$oid": "60c1c272217776c06d596e81"
+  },
+  "SoLuong": "1",
+  "HinhAnh": "https://lumen.thinkpro.vn//backend/uploads/product/color_images/2021/4/14/g503-1.jpg"
+},{
+  "_id": {
+    "$oid": "60c1cd18217776c06d5971b6"
+  },
+  "TenSP": "ASUS ROG Strix G17 (G713)",
+  "CPU": "AMD Ryzen 7 5800H, 8 nhân / 16 luồng",
+  "ManHinh": "17.3\" FHD IPS (1920 x 1080) 300Hz chống chói",
+  "DoPhuMau": "100% sRGB, chuẩn Pantone",
+  "RAM": "16GB DDR4 bus 3200 MHz (Còn trống 1 khe - Nâng cấp tối đa 64GB)",
+  "VGA": "AMD Radeon Graphics + Nvidia RTX3070 8GB GDDR6",
+  "BoNhoLuuTru": "1TB m.2 NVMe (Nâng cấp tối đa 2TB x 2)",
+  "Pin": "90Wh",
+  "CongKetNoi": "1 x USB-C 3.2 Gen 2 (Hỗ trợ sạc PD và xuất hình), 3 x USB-A 3.2 Gen 1, 1 x HDMI 2.0b, 1 x RJ-45",
+  "CanNang": "2.7 kg",
+  "HeDieuHanh": "Windows 10 Home SL bản quyền",
+  "MauSac": "Eclipse Grey",
+  "DonGia": "49990000",
+  "ThuongHieu": {
+    "$oid": "60c1c272217776c06d596e81"
+  },
+  "SoLuong": "1",
+  "HinhAnh": "https://lumen.thinkpro.vn//backend/uploads/product/color_images/2021/1/27/g713-egrey-04.jpg"
+},{
+  "_id": {
+    "$oid": "60c1cd18217776c06d5971b9"
+  },
+  "TenSP": "Lenovo ThinkPad X1 Carbon Gen 9",
+  "CPU": "Intel Core i5-1135G7, 4 nhân / 8 luồng",
+  "ManHinh": "14.0\" FHD IPS+ (1920 x 1200) chống chói, Low-Power 400 nits",
+  "DoPhuMau": "100% sRGB",
+  "RAM": "16GB LDDR4X bus 4266 MHz (Hàn trên mainboard - Không thể nâng cấp)",
+  "VGA": "Intel Iris Xe",
+  "BoNhoLuuTru": "512GB m.2 NVMe (Nâng cấp tối đa 2TB)",
+  "Pin": "57Wh",
+  "CongKetNoi": "2 x USB-C (Thunderbolt 4), 2 x USB-A 3.2 Gen 1, 1 x HDMI 2.0, 1 x 3.5mm",
+  "CanNang": "1.133kg",
+  "HeDieuHanh": "Windows 10 Pro bản quyền",
+  "MauSac": "Black",
+  "DonGia": "47990000",
+  "ThuongHieu": {
+    "$oid": "60c1c272217776c06d596e84"
+  },
+  "SoLuong": "1",
+  "HinhAnh": "https://lumen.thinkpro.vn//backend/uploads/product/color_images/2021/3/16/x1g9-5.jpg"
+},{
+  "_id": {
+    "$oid": "60c1cd18217776c06d5971bc"
+  },
+  "TenSP": "Lenovo Legion 5 Pro",
+  "CPU": "AMD Ryzen 7 5800H, 8 nhân / 16 luồng",
+  "ManHinh": "16.0\" 2K WQHD IPS (2560 x 1600) 165Hz, màn nhám, Dolby Vision HDR400, AdaptiveSync",
+  "DoPhuMau": "100% sRGB",
+  "RAM": "16GB DDR4 3200MHz (8GBx2 - Nâng cấp tối đa 64GB)",
+  "VGA": "Nvidia Geforce RTX 3060 6GB GDDR6",
+  "BoNhoLuuTru": "512GB NVMe (Nâng cấp tối đa 2TB)",
+  "Pin": "80Wh",
+  "CongKetNoi": "4 x USB-A 3.2 Gen 1, 2 x USB-C 3.2 Gen 2 (Hỗ trợ xuất hình DisplayPort 1.4 / 1 cổng hỗ trợ Power Delivery), 1 x HDMI 2.1, 1 x Jack 3.5mm, 1xRJ45",
+  "CanNang": "2.45 kg",
+  "HeDieuHanh": "Windows 10 Home SL bản quyền",
+  "MauSac": "Grey",
+  "DonGia": "43690000",
+  "ThuongHieu": {
+    "$oid": "60c1c272217776c06d596e84"
+  },
+  "SoLuong": "1",
+  "HinhAnh": "https://lumen.thinkpro.vn//backend/uploads/product/color_images/2021/4/2/lg5pro-grey-1.jpg"
+},{
+  "_id": {
+    "$oid": "60c1cd18217776c06d5971bf"
+  },
+  "TenSP": "Lenovo ThinkPad X1 Extreme Gen 3",
+  "CPU": "Intel Core i7 10750H, 6 nhân / 12 luồng",
+  "ManHinh": "15.6\" FHD IPS (1920 x 1080) chống chói",
+  "DoPhuMau": "90% sRGB",
+  "RAM": "8GB DDR4 bus 2933 MHz (Nâng cấp tối đa 64GB)",
+  "VGA": "Nvidia Geforce GTX1650Ti 4GB GDDR6",
+  "BoNhoLuuTru": "256GB m.2 NVMe (Nâng cấp tối đa 2TB)",
+  "Pin": "80Wh",
+  "CongKetNoi": "2 x USB-C with Thunderbolt 3, 2 x USB-A, 1 x HDMI",
+  "CanNang": "1.84kg",
+  "HeDieuHanh": "Windows 10 bản quyền",
+  "MauSac": "Black",
+  "DonGia": "39990000",
+  "ThuongHieu": {
+    "$oid": "60c1c272217776c06d596e84"
+  },
+  "SoLuong": "1",
+  "HinhAnh": "https://toplap.vn/storage/img/trmWDN1YJfTRyOsqDJ3hs6TbbSzEQFf0Epm4KypJ.jpeg"
+},{
+  "_id": {
+    "$oid": "60c1cd18217776c06d5971c2"
+  },
+  "TenSP": "Lenovo Legion 7 (Chính hãng)",
+  "CPU": "Intel Core i7 10870H, 8 nhân / 16 luồng",
+  "ManHinh": "15.6\" Full HD IPS (1920 x 1080) 144Hz, màn nhám",
+  "DoPhuMau": "100% sRGB, 100% AdobeRGB",
+  "RAM": "16GB DDR4 2933MHz (Nâng cấp tối đa 32GB)",
+  "VGA": "Nvidia Geforce RTX 2060 6GB",
+  "BoNhoLuuTru": "1TB NVMe (Nâng cấp tối đa 2TB)",
+  "Pin": "80Wh",
+  "CongKetNoi": "1 x USB-A 3.2 gen 1, 2 x USB-A 3.2 gen 2, 2 x USB-C with Thunderbolt 3, 1 x HDMI, 1 x Jack 3.5mm",
+  "CanNang": "2.25 kg",
+  "HeDieuHanh": "Windows 10 Single Language bản quyền",
+  "MauSac": "Slate Grey",
+  "DonGia": "53490000",
+  "ThuongHieu": {
+    "$oid": "60c1c272217776c06d596e84"
+  },
+  "SoLuong": "1",
+  "HinhAnh": "https://lumen.thinkpro.vn//backend/uploads/product/color_images/2020/10/1/legion7i-01.jpg"
+},{
+  "_id": {
+    "$oid": "60c1cd18217776c06d5971c5"
+  },
+  "TenSP": "HP Envy 15 2020 (Chính hãng)",
+  "CPU": "Intel Core i7-10750H, 6 nhân / 12 luồng",
+  "ManHinh": "15.6\" FHD IPS (1920 x 1080), gương, cảm ứng",
+  "DoPhuMau": "100% sRGB",
+  "RAM": "16GB DDR4 bus 2933 MHz (Nâng cấp tối đa 64GB)",
+  "VGA": "Nvidia Geforce GTX1660Ti 6GB",
+  "BoNhoLuuTru": "1TB m.2 NVMe (Nâng cấp tối đa 2TB)",
+  "Pin": "83Wh",
+  "CongKetNoi": "2 x USB-C with Thunderbolt 3, 2 x USB-A, 1 x HDMI, 1 x 3.5mm",
+  "CanNang": "2.1 kg",
+  "HeDieuHanh": "Windows 10 Home SL bản quyền",
+  "MauSac": "Silver",
+  "DonGia": "53490000",
+  "ThuongHieu": {
+    "$oid": "60c1c272217776c06d596e87"
+  },
+  "SoLuong": "1",
+  "HinhAnh": "https://lumen.thinkpro.vn//backend/uploads/product/color_images/2020/11/12/envy152020-01.jpg"
+},{
+  "_id": {
+    "$oid": "60c1cd18217776c06d5971c8"
+  },
+  "TenSP": "HP Spectre 13 X360 (Chính hãng - Intel Gen 11)",
+  "CPU": "Intel Core i7-1165G7, 4 nhân / 8 luồng",
+  "ManHinh": "13.3\" 4K OLED (3840 x 2160) gương, cảm ứng",
+  "DoPhuMau": "100% sRGB, 100% DCI-P3",
+  "RAM": "16GB LPDDR4 bus 4266 MHz (Hàn trên mainboard - không thể nâng cấp)",
+  "VGA": "Intel Iris Xe",
+  "BoNhoLuuTru": "1TB m.2 NVMe + 32GB Optane (tích hợp sẵn) (Nâng cấp tối đa 2TB)",
+  "Pin": "60Wh",
+  "CongKetNoi": "2 x USB-C hỗ trợ Thunderbolt 4, 1 x USB-A 3.2 Gen 1, 1 x Jack tai nghe 3.5mm, 1 x microSD",
+  "CanNang": "1.27kg",
+  "HeDieuHanh": "Windows 10 Home SL bản quyền",
+  "MauSac": "Poseidon Blue",
+  "DonGia": "49990000",
+  "ThuongHieu": {
+    "$oid": "60c1c272217776c06d596e87"
+  },
+  "SoLuong": "1",
+  "HinhAnh": "https://lumen.thinkpro.vn//backend/uploads/product/color_images/2021/2/3/spectrebluepsd-1.jpg"
+}]

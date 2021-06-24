@@ -1,0 +1,26 @@
+.card {
+  /* Add shadows to create the "card" effect */
+  transition: 0.3s;
+}
+
+/* On mouse-over, add a deeper shadow */
+.card:hover{
+  box-shadow: 0 0 11px rgba(33,33,33,.2); 
+}
+.card:hover > .card-hide{
+	
+  display: block; ;
+  position: absolute;
+  box-shadow: 0 0 2px rgba(33,33,33,.2); 
+  z-index: 1;
+}
+
+/* Add some padding inside the card container */
+.container {
+  padding: 2px 16px;
+}
+.card-hide {
+	top:12.4rem;
+	display: none;
+  z-index: 1;
+}

@@ -1,0 +1,62 @@
+.buscar-caja {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background: #2f3640;
+}
+
+.buscar-caja:hover > .buscar-btn {
+ background: white;
+ color: black;
+}
+
+.buscar-btn {
+ color: #e84118;
+ float: right;
+ width: 2.5rem;
+ height: 2.5rem;
+ border-radius: 50%;
+ background:#43474f;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ transition: 0.4s;
+ color: white;
+ cursor: pointer;
+ margin-bot:20rem;
+}
+
+.buscar-btn > i {
+ font-size: 30px;
+}
+
+.buscar-txt {
+  border: none;
+  background: none;
+  outline: none;
+  float: left;
+  padding: 0;
+  color: white;
+  font-size: 16px;
+  transition: 0.4s;
+ 
+  width: 238px;
+}
+/*ADMIN SEARCHBAR*/
+.search-simple input[type=text] {
+  width: 130px;
+  box-sizing: border-box;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  font-size: 12px;
+  background-color: white;
+  background-position: 10px 10px; 
+  background-repeat: no-repeat;
+  padding: 0.2rem;
+  -webkit-transition: width 0.4s ease-in-out;
+  transition: width 0.4s ease-in-out;
+}
+.search-simple input[type=text]:focus {
+  width: 100%;
+}
